@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @12lettername
 - 👀 I’m interested in programmming
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on devComm
+- 
 - 
 
 <!---
